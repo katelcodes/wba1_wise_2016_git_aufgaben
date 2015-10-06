@@ -5,6 +5,12 @@
 #######################
 
 
+v0.40:
+  * New: Added feature_x
+  * Fix: Fixed this
+  * Fix: Fixed that
+
+
 v0.30:
   * New: Added feature_e
   * New: Added feature_f
