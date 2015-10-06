@@ -1,8 +1,15 @@
 
 
 ####
-# Current Version: 0.30
+# Current Version: 0.35
 #######################
+
+
+v0.35:
+  * New: Added feature_g
+  * New: Added feature_h
+  * Fix: Fixed this
+  * Fix: Fixed that
 
 
 v0.30:
